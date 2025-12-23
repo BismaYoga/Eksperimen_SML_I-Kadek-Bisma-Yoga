@@ -21,7 +21,7 @@ jobs:
       run: |
         pip install pandas scikit-learn
     - name: Run Automation Script
-      run: python preprocessing/automate_Nama-siswa.py
+      run: python preprocessing/automate_I-Kadek-Bisma-Yoga.py
 
     - name: Commit and Push Changes
       run: |
